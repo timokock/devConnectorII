@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://SuperSix2019:SuperSix2019@dev01-fw6o5.gcp.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://SuperSix2019:SuperSix2019@dev01-fw6o5.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
